@@ -1,0 +1,2256 @@
+[33mcommit 8040fa87749f900c30ab1824ab989dba320eb6ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1928292 9de6736
+Author: Amrith R Naik <140691969+amrith-r-naik@users.noreply.github.com>
+Date:   Sat Feb 17 08:40:25 2024 +0530
+
+    Merge commit '9de6736'
+
+[33mcommit 9de67360fd3b58518d653633454787f47f5411ff[m
+Author: Amrith R Naik <140691969+amrith-r-naik@users.noreply.github.com>
+Date:   Sat Feb 17 08:36:57 2024 +0530
+
+    feat: Landing page
+
+[33mcommit 192829298d0b3056a531717da88ee2a3e73b5097[m
+Author: Amrith R Naik <140691969+amrith-r-naik@users.noreply.github.com>
+Date:   Sat Feb 17 08:23:18 2024 +0530
+
+    feat: landing page
+
+[33mcommit 502d8f519dc1f55486cfe942026cd06d4ae2ad3e[m
+Merge: e069b33 f2a9330
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Jan 30 12:06:25 2024 +0100
+
+    Merge pull request #272 from Blazity/bmstefanski-patch-1
+    
+    Update README.md
+
+[33mcommit f2a933041aec7fdc2859ca0a1a4d1a664df94582[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Jan 30 12:06:05 2024 +0100
+
+    Update README.md
+
+[33mcommit e069b330565de28ecf31d35328b36ae367b2ab49[m
+Merge: 35bbc74 7631f32
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Jul 24 12:09:32 2023 +0200
+
+    Merge pull request #163 from Blazity/renovate/babel-monorepo
+
+[33mcommit 35bbc746dc7e24517e6c08abccab3236d89fb025[m
+Merge: a6f7305 711bc02
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Jul 24 12:09:24 2023 +0200
+
+    Merge pull request #161 from Blazity/renovate/typescript-eslint-monorepo
+
+[33mcommit a6f73051e98e30875b66a313f87c295595f26f59[m
+Merge: 504741d 2022927
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Jul 24 12:09:16 2023 +0200
+
+    Merge pull request #166 from Blazity/renovate/typescript-5.x
+
+[33mcommit 7631f325aec4256a1cf7919dbf839b4f2543d150[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Wed Jul 12 17:17:07 2023 +0000
+
+    Update dependency @babel/eslint-parser to v7.22.9
+
+[33mcommit 711bc0240e08f610e54e9b481f75c7278cc4dcff[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Mon Jul 10 19:44:52 2023 +0000
+
+    Update typescript-eslint monorepo to v5.62.0
+
+[33mcommit 504741d54d55786120ca10beccd1fff648ce4861[m
+Merge: d99c999 8efd9ee
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Jul 2 12:16:15 2023 +0200
+
+    Merge pull request #164 from Blazity/renovate/eslint-8.x-lockfile
+
+[33mcommit 8efd9eedaf34ceabe11a9f6406c236761c877d90[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Sat Jul 1 11:16:25 2023 +0000
+
+    Update dependency eslint to v8.44.0
+
+[33mcommit 20229277eeb8bbdc33d51445f40037f30c025017[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu Jun 29 01:44:08 2023 +0000
+
+    Update dependency typescript to v5.1.6
+
+[33mcommit d99c999c91f10e03337f9084b6c8c29e85df5bb3[m
+Merge: abb7bdf 2f6130b
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Jun 15 14:06:28 2023 +0200
+
+    Merge pull request #169 from Blazity/blazity-discord
+
+[33mcommit 2f6130b91f45ce2626d04eafc2543899bb4233b6[m
+Author: SerekKiri <kacper.potyrala@gmail.com>
+Date:   Thu Jun 15 13:00:14 2023 +0200
+
+    add blazity discord banner to readme
+
+[33mcommit abb7bdf0733eac5dfdceedf05f8980c080336085[m
+Merge: 101fa06 d819dbe
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Jun 12 13:57:59 2023 +0200
+
+    Merge pull request #158 from Blazity/dependabot/npm_and_yarn/typescript-eslint/parser-5.59.9
+
+[33mcommit 101fa06a1510ab4e66a5c096bf434ccaa7a94754[m
+Merge: 48e4391 f01ad87
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Jun 12 13:57:52 2023 +0200
+
+    Merge pull request #152 from Blazity/dependabot/npm_and_yarn/tinacms-1.5.8
+
+[33mcommit d819dbe3bbf37ee3e572bc31405603fd135ecff0[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 11:05:12 2023 +0000
+
+    Bump @typescript-eslint/parser from 5.59.6 to 5.59.9
+    
+    Bumps [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) from 5.59.6 to 5.59.9.
+    - [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+    - [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
+    - [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v5.59.9/packages/parser)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@typescript-eslint/parser"
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 48e439142cf8274ea4f1eb3fba5c57da190cc1bf[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Jun 6 19:19:49 2023 +0200
+
+    Update README.md
+
+[33mcommit f01ad8703224e835ca33761ee2de5c2fe984cabf[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 5 11:00:56 2023 +0000
+
+    Bump tinacms from 1.4.6 to 1.5.8
+    
+    Bumps [tinacms](https://github.com/tinacms/tinacms/tree/HEAD/packages/tinacms) from 1.4.6 to 1.5.8.
+    - [Release notes](https://github.com/tinacms/tinacms/releases)
+    - [Changelog](https://github.com/tinacms/tinacms/blob/main/packages/tinacms/CHANGELOG.md)
+    - [Commits](https://github.com/tinacms/tinacms/commits/tinacms@1.5.8/packages/tinacms)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: tinacms
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit bc919eb68ea947ea365a76eb61055f7fd5737243[m
+Merge: 722f654 4254e36
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Wed May 31 22:46:49 2023 +0200
+
+    Merge pull request #128 from Blazity/renovate/babel-monorepo
+
+[33mcommit 722f6547b6200f129db8700bfae141fffb25aefe[m
+Merge: c5f3c1e 1a97b46
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Wed May 31 22:46:39 2023 +0200
+
+    Merge pull request #149 from Blazity/dependabot/npm_and_yarn/all-contributors-cli-6.26.0
+
+[33mcommit c5f3c1e47dfb195ba547cc647aec0fe25a1c7f78[m
+Merge: 6a9172c f27b07c
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Wed May 31 22:46:30 2023 +0200
+
+    Merge pull request #150 from Blazity/dependabot/npm_and_yarn/types/swiper-6.0.0
+
+[33mcommit 1a97b467c321876fab3c33a473db720859131897[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue May 30 14:56:46 2023 +0000
+
+    Bump all-contributors-cli from 6.25.1 to 6.26.0
+    
+    Bumps [all-contributors-cli](https://github.com/all-contributors/all-contributors-cli) from 6.25.1 to 6.26.0.
+    - [Release notes](https://github.com/all-contributors/all-contributors-cli/releases)
+    - [Commits](https://github.com/all-contributors/all-contributors-cli/compare/v6.25.1...v6.26.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: all-contributors-cli
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 6a9172cc62840720fdaa67368125e21fceb0699b[m
+Merge: 8b6ebda c319149
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue May 30 16:55:09 2023 +0200
+
+    Merge pull request #108 from Blazity/renovate/nextjs-monorepo
+
+[33mcommit c319149fbf21b83462ffb9ed01e30cdcd550dc7c[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Tue May 30 06:34:33 2023 +0000
+
+    Update nextjs monorepo
+
+[33mcommit f27b07c1730baa377afde83d166a8a69ad58b173[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon May 29 11:01:01 2023 +0000
+
+    Bump @types/swiper from 5.4.3 to 6.0.0
+    
+    Bumps [@types/swiper](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/swiper) from 5.4.3 to 6.0.0.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/swiper)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@types/swiper"
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 4254e36aff7c559cbc65b9cf605294f372613eb1[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Mon May 22 12:26:56 2023 +0000
+
+    Update dependency @babel/eslint-parser to v7.21.8
+
+[33mcommit 8b6ebda212bc49dc813b3e6cddc6a540b0ff7ac6[m
+Merge: 8cd7a3e 63f624d
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon May 22 14:26:17 2023 +0200
+
+    Merge pull request #126 from Blazity/renovate/eslint-8.x
+
+[33mcommit 8cd7a3e21d36b0f04f5d2f1d4e477081ee5e8ed1[m
+Merge: 0ce7540 23564a7
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon May 22 14:25:48 2023 +0200
+
+    Merge pull request #137 from Blazity/renovate/all-contributors-cli-6.x-lockfile
+
+[33mcommit 0ce7540a05729a0145ef2286456651686602ed15[m
+Merge: 59fe973 a574381
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon May 22 14:25:40 2023 +0200
+
+    Merge pull request #138 from Blazity/renovate/remark-breaks-3.x-lockfile
+
+[33mcommit 59fe97346e203cf8f4c1ee57b5a411e23e1dbc56[m
+Merge: 477873c 09de3d6
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon May 22 14:14:44 2023 +0200
+
+    Merge pull request #139 from Blazity/renovate/swiper-9.x
+
+[33mcommit 63f624d18851c3eaa3c3f3f8c4943a58b5884528[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Mon May 22 12:01:29 2023 +0000
+
+    Update dependency eslint to v8
+
+[33mcommit 23564a78864f30b9f52bd0fac68733095dc4cd0c[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Mon May 22 11:57:07 2023 +0000
+
+    Update dependency all-contributors-cli to v6.25.1
+
+[33mcommit 477873c46c5a14b8220733cd98a1b615e6fdec2f[m
+Merge: 28bd4dc 42e0d79
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon May 22 13:57:01 2023 +0200
+
+    Merge pull request #140 from Blazity/renovate/svgr-webpack-8.x
+
+[33mcommit 28bd4dc4ee3b6159fcc42e90c83070da0abe7a7e[m
+Merge: 4f3a385 9285c28
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon May 22 13:56:45 2023 +0200
+
+    Merge pull request #130 from Blazity/renovate/eslint-plugin-flowtype-8.x
+
+[33mcommit 4f3a38589215f405a7c82522be8fd76c55d67bb2[m
+Merge: 764df40 1cf5612
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon May 22 13:56:32 2023 +0200
+
+    Merge pull request #146 from Blazity/renovate/major-typescript-eslint-monorepo
+
+[33mcommit 764df405cb9ea1b1cb054051241a148a555bc927[m
+Merge: 783c418 9fa164f
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon May 22 13:56:21 2023 +0200
+
+    Merge pull request #144 from Blazity/renovate/remark-sectionize-2.x
+
+[33mcommit 1cf561237ea974a9f72683af8c12f602ca00672a[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu May 18 11:40:40 2023 +0000
+
+    Update typescript-eslint monorepo to v5
+
+[33mcommit 9fa164ff50e833ecbe5d8f409519b788e505ee28[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu May 18 11:40:05 2023 +0000
+
+    Update dependency remark-sectionize to v2
+
+[33mcommit 9285c28ddc834ae689d2b58f6113c5fae72e6cf1[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu May 18 11:38:40 2023 +0000
+
+    Update dependency eslint-plugin-flowtype to v8
+
+[33mcommit 42e0d790be7ca6c016186f2460af3140ddc3290c[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu May 18 11:37:34 2023 +0000
+
+    Update dependency @svgr/webpack to v8
+
+[33mcommit 09de3d6db9460cc52e750657cb076ecc756dc6ef[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu May 18 11:36:35 2023 +0000
+
+    Update dependency swiper to v9.3.2
+
+[33mcommit a5743819443951fe4c9c2a074472f42a8fe6d338[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu May 18 11:35:29 2023 +0000
+
+    Update dependency remark-breaks to v3.0.3
+
+[33mcommit 783c4180f4a5f093e7bcbdbecabdacab9d52dfdb[m
+Merge: e8e6385 a3d53f4
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Wed May 17 21:35:35 2023 +0200
+
+    Merge pull request #136 from Blazity/bmstefanski-patch-1
+
+[33mcommit a3d53f4738d91d9e16c741b79da00b5d5f0c381c[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Wed May 17 21:35:25 2023 +0200
+
+    Update README.md
+
+[33mcommit e8e6385fd0d19b54c50ef11c353be9dca2e94fab[m
+Merge: c8af44b 66ff53b
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu May 4 13:16:05 2023 +0200
+
+    Merge pull request #124 from Blazity/renovate/date-fns-2.x-lockfile
+
+[33mcommit c8af44bf7d8127a67f955dc62f4d8cedfb893118[m
+Merge: ac1c60c ca5d5da
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu May 4 13:15:57 2023 +0200
+
+    Merge pull request #127 from Blazity/renovate/eslint-config-react-app-7.x
+
+[33mcommit ca5d5da3d42e5aba24d26a501aefec444b18a0a1[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Tue May 2 14:38:14 2023 +0000
+
+    Update dependency eslint-config-react-app to v7
+
+[33mcommit 66ff53b2489bfb4e27a0b3fd2ea041fd76e1f2a5[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Tue May 2 11:18:16 2023 +0000
+
+    Update dependency date-fns to v2.30.0
+
+[33mcommit ac1c60cc5b907a2996185db74103538078b6ffa0[m
+Merge: 87f9088 45b2316
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue May 2 13:17:53 2023 +0200
+
+    Merge pull request #112 from Blazity/renovate/all-contributors-cli-6.x-lockfile
+
+[33mcommit 87f90880ab418bbe32958c09b562b0c0e0b0e1af[m
+Merge: 3534e83 b9fa14e
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue May 2 13:17:37 2023 +0200
+
+    Merge pull request #118 from Blazity/renovate/svgr-webpack-7.x
+
+[33mcommit 3534e8358dea9eb64f24d44a3dedf796c736b6f1[m
+Merge: ba759e3 4fcbfcb
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue May 2 13:17:29 2023 +0200
+
+    Merge pull request #119 from Blazity/dependabot/npm_and_yarn/use-resize-observer-9.1.0
+
+[33mcommit ba759e32b6041e7d00e6fce6450e92d739a51fd4[m
+Merge: b56b26f 12ddef0
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue May 2 13:17:25 2023 +0200
+
+    Merge pull request #121 from Blazity/dependabot/npm_and_yarn/typescript-5.0.4
+
+[33mcommit 12ddef048e7d5145b675bbbf50d9af62502d6668[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon May 1 11:04:10 2023 +0000
+
+    Bump typescript from 4.7.4 to 5.0.4
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.7.4 to 5.0.4.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.7.4...v5.0.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 4fcbfcb805c370cf9ad7699ef6486724d288894a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon May 1 11:02:58 2023 +0000
+
+    Bump use-resize-observer from 9.0.2 to 9.1.0
+    
+    Bumps [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) from 9.0.2 to 9.1.0.
+    - [Release notes](https://github.com/ZeeCoder/use-resize-observer/releases)
+    - [Changelog](https://github.com/ZeeCoder/use-resize-observer/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/ZeeCoder/use-resize-observer/compare/v9.0.2...v9.1.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: use-resize-observer
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b9fa14e53b8c53926633102591d55735145ee38d[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Fri Apr 28 03:35:04 2023 +0000
+
+    Update dependency @svgr/webpack to v7
+
+[33mcommit b56b26ff4fbda8ecfd7d6bc0275316957e12bc9d[m
+Merge: 3e47e25 e723c10
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Apr 27 16:54:31 2023 +0200
+
+    Merge pull request #101 from Blazity/renovate/npm-next-vulnerability
+
+[33mcommit 3e47e252f85de8cb1cad7a70cab62c4f95f3645c[m
+Merge: 236727a 1dd9e7a
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Apr 27 16:54:19 2023 +0200
+
+    Merge pull request #102 from Blazity/renovate/babel-eslint-replacement
+
+[33mcommit 45b2316800c921a3515e585976d6db3d901a0c81[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu Apr 27 14:54:03 2023 +0000
+
+    Update dependency all-contributors-cli to v6.25.0
+
+[33mcommit 236727ab1b7c203aab4d68ae56a7c3cae3df7c61[m
+Merge: 754f9a9 b332c86
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Apr 27 16:54:02 2023 +0200
+
+    Merge pull request #105 from Blazity/renovate/remark-breaks-3.x-lockfile
+
+[33mcommit 754f9a9a8683ec256199cf46f5d0db259da21c8f[m
+Merge: 7fe43b7 90dfc46
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Apr 27 16:53:20 2023 +0200
+
+    Merge pull request #109 from Blazity/renovate/eslint-config-prettier-8.x-lockfile
+
+[33mcommit 7fe43b7228d726777b81a0594a0162eaecc2d161[m
+Merge: f929e7f 45e087a
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Apr 27 16:53:00 2023 +0200
+
+    Merge pull request #110 from Blazity/renovate/polished-4.x-lockfile
+
+[33mcommit 1dd9e7a7ba08e41896d752e5adf3a91967d1e187[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu Apr 27 14:52:55 2023 +0000
+
+    Replace dependency babel-eslint with @babel/eslint-parser ^7.11.0
+
+[33mcommit f929e7fb875d8fbbbb4d4cef990ee01723447d33[m
+Merge: 88b1dcf 221ae0c
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Apr 27 16:52:21 2023 +0200
+
+    Merge pull request #111 from Blazity/renovate/react-animate-height-2.x-lockfile
+
+[33mcommit 221ae0c6a0e2293ceee9ec02d3cb8797579150b1[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Tue Apr 25 21:14:13 2023 +0000
+
+    Update dependency react-animate-height to v2.1.2
+
+[33mcommit 45e087abfc8a215a8df8ebb8addaf3f6a7d892ff[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Tue Apr 25 21:13:36 2023 +0000
+
+    Update dependency polished to v4.2.2
+
+[33mcommit 90dfc4698164b9bc7469c3eb6f82b75516e52445[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Tue Apr 25 14:15:05 2023 +0000
+
+    Update dependency eslint-config-prettier to v8.8.0
+
+[33mcommit b332c8604d28e541180247729cac032bc6a42603[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Mon Apr 24 20:21:16 2023 +0000
+
+    Update dependency remark-breaks to v3.0.2
+
+[33mcommit e723c10528fa72eada466a3ba418191b87ef884e[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Mon Apr 24 14:50:45 2023 +0000
+
+    Update dependency next to v12.1.0 [SECURITY]
+
+[33mcommit 88b1dcf3f7d13058bef1682bda5b2ef4d350363d[m
+Merge: b5ceefe 4bc46e5
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Apr 24 16:49:41 2023 +0200
+
+    Merge pull request #100 from Blazity/renovate/configure
+
+[33mcommit b5ceefe4dd4eebf8d74f5012311d25473700db76[m
+Merge: 1938672 6d67cbb
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Apr 24 16:35:20 2023 +0200
+
+    Merge pull request #97 from Blazity/dependabot/npm_and_yarn/next-mdx-remote-4.4.1
+
+[33mcommit 193867211a4f766be7c437778c3690baf21c531c[m
+Merge: ad8902d 2ccb122
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Apr 24 16:34:53 2023 +0200
+
+    Merge pull request #98 from Blazity/dependabot/npm_and_yarn/swiper-9.2.4
+
+[33mcommit 4bc46e5baf9768c7325d180ee85d1f5c74b88e62[m
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Mon Apr 24 14:34:25 2023 +0000
+
+    Add renovate.json
+
+[33mcommit ad8902d56cdfe5d65bbb193b96827fae7e665bbf[m
+Merge: 2cfcaed 2979c1a
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Apr 24 16:34:12 2023 +0200
+
+    Merge pull request #99 from Blazity/dependabot/npm_and_yarn/next/bundle-analyzer-13.3.1
+
+[33mcommit 2979c1a5e618ba7d151f2e181b6551f58a40b7c7[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Apr 24 11:06:05 2023 +0000
+
+    Bump @next/bundle-analyzer from 13.1.6 to 13.3.1
+    
+    Bumps [@next/bundle-analyzer](https://github.com/vercel/next.js/tree/HEAD/packages/next-bundle-analyzer) from 13.1.6 to 13.3.1.
+    - [Release notes](https://github.com/vercel/next.js/releases)
+    - [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+    - [Commits](https://github.com/vercel/next.js/commits/v13.3.1/packages/next-bundle-analyzer)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@next/bundle-analyzer"
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2ccb12285afb7ab256674cf8be344e40ae74d6db[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Apr 24 11:05:24 2023 +0000
+
+    Bump swiper from 8.3.2 to 9.2.4
+    
+    Bumps [swiper](https://github.com/nolimits4web/Swiper) from 8.3.2 to 9.2.4.
+    - [Release notes](https://github.com/nolimits4web/Swiper/releases)
+    - [Changelog](https://github.com/nolimits4web/swiper/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/nolimits4web/Swiper/compare/v8.3.2...v9.2.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: swiper
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 6d67cbbc28ffdfdaa61ae4efddef7bfa0694f1b8[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Apr 24 11:04:56 2023 +0000
+
+    Bump next-mdx-remote from 4.3.0 to 4.4.1
+    
+    Bumps [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) from 4.3.0 to 4.4.1.
+    - [Release notes](https://github.com/hashicorp/next-mdx-remote/releases)
+    - [Commits](https://github.com/hashicorp/next-mdx-remote/compare/v4.3.0...v4.4.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: next-mdx-remote
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2cfcaeda303dab5e1cb949ff555be03e831be7fd[m
+Merge: f8a3ff0 7ea02c9
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Apr 18 12:45:15 2023 +0200
+
+    Merge pull request #87 from Blazity/dependabot/npm_and_yarn/schema-dts-1.1.2
+    
+    Bump schema-dts from 1.0.0 to 1.1.2
+
+[33mcommit f8a3ff02110f050850d2b9c1714bebe73b2b14d0[m
+Merge: eb8ebfe 40c30cc
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Apr 18 12:44:24 2023 +0200
+
+    Merge pull request #86 from Blazity/dependabot/npm_and_yarn/babel/eslint-parser-7.21.3
+    
+    Bump @babel/eslint-parser from 7.18.9 to 7.21.3
+
+[33mcommit eb8ebfe735ea9fc38acd21fc26a557dba3b2ad7c[m
+Merge: 7cf2eaf c286e73
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Apr 18 12:43:57 2023 +0200
+
+    Merge pull request #95 from Blazity/dependabot/npm_and_yarn/tinacms-1.4.6
+    
+    Bump tinacms from 0.63.0 to 1.4.6
+
+[33mcommit c286e73bfa9be3e0ce0a0751852f134228b94173[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Apr 17 11:17:45 2023 +0000
+
+    Bump tinacms from 0.63.0 to 1.4.6
+    
+    Bumps [tinacms](https://github.com/tinacms/tinacms/tree/HEAD/packages/tinacms) from 0.63.0 to 1.4.6.
+    - [Release notes](https://github.com/tinacms/tinacms/releases)
+    - [Changelog](https://github.com/tinacms/tinacms/blob/main/packages/tinacms/CHANGELOG.md)
+    - [Commits](https://github.com/tinacms/tinacms/commits/tinacms@1.4.6/packages/tinacms)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: tinacms
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 7ea02c9f590d6304840347a91b896195ccb95f27[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 27 11:07:48 2023 +0000
+
+    Bump schema-dts from 1.0.0 to 1.1.2
+    
+    Bumps [schema-dts](https://github.com/google/schema-dts/tree/HEAD/packages/schema-dts) from 1.0.0 to 1.1.2.
+    - [Release notes](https://github.com/google/schema-dts/releases)
+    - [Commits](https://github.com/google/schema-dts/commits/v1.1.2/packages/schema-dts)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: schema-dts
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 40c30cc94331d1a61cdfcc0ef8e0500c96d56c79[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 27 11:07:06 2023 +0000
+
+    Bump @babel/eslint-parser from 7.18.9 to 7.21.3
+    
+    Bumps [@babel/eslint-parser](https://github.com/babel/babel/tree/HEAD/eslint/babel-eslint-parser) from 7.18.9 to 7.21.3.
+    - [Release notes](https://github.com/babel/babel/releases)
+    - [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/babel/babel/commits/v7.21.3/eslint/babel-eslint-parser)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@babel/eslint-parser"
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 7cf2eaf80c09e7ded436528d9b598dd846b0d6f4[m
+Merge: 6708208 e491a55
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Mar 25 01:10:17 2023 +0100
+
+    Merge pull request #82 from Blazity/dependabot/npm_and_yarn/eslint-config-next-13.2.4
+    
+    Bump eslint-config-next from 11.1.2 to 13.2.4
+
+[33mcommit 67082089817ced0cf26ac93e6f4cbc9e48ed2b5a[m
+Merge: 0214389 6b93cf9
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Mar 25 01:10:01 2023 +0100
+
+    Merge pull request #79 from Blazity/dependabot/npm_and_yarn/sendgrid/mail-7.7.0
+    
+    Bump @sendgrid/mail from 7.4.7 to 7.7.0
+
+[33mcommit 021438974cf39bcc53a6a70ba6af262899fbcf79[m
+Merge: eaa00c3 648fcee
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Mar 25 01:09:48 2023 +0100
+
+    Merge pull request #78 from Blazity/dependabot/npm_and_yarn/all-contributors-cli-6.24.0
+    
+    Bump all-contributors-cli from 6.20.0 to 6.24.0
+
+[33mcommit eaa00c38843fe9c005313dfbc7d542272187942a[m
+Merge: 5049a94 0938ce3
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Mar 25 01:09:32 2023 +0100
+
+    Merge pull request #76 from Blazity/dependabot/npm_and_yarn/date-fns-2.29.3
+    
+    Bump date-fns from 2.24.0 to 2.29.3
+
+[33mcommit 5049a945501a9bc6ec78e5c26099e0bb8062bbf2[m
+Merge: 04ba860 dc07fc5
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Mar 25 01:09:21 2023 +0100
+
+    Merge pull request #75 from Blazity/dependabot/npm_and_yarn/react-share-4.4.1
+    
+    Bump react-share from 4.4.0 to 4.4.1
+
+[33mcommit 04ba86031715b28cb4f0f33a4be33390281aee58[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Mar 25 01:08:19 2023 +0100
+
+    demojify
+
+[33mcommit e491a559d20fd99a8e4257b102518494228536fb[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 13 11:17:00 2023 +0000
+
+    Bump eslint-config-next from 11.1.2 to 13.2.4
+    
+    Bumps [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next) from 11.1.2 to 13.2.4.
+    - [Release notes](https://github.com/vercel/next.js/releases)
+    - [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+    - [Commits](https://github.com/vercel/next.js/commits/v13.2.4/packages/eslint-config-next)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint-config-next
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 6b93cf980b62be11b8ac1aea128c6dc6ea729726[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 20 11:12:45 2023 +0000
+
+    Bump @sendgrid/mail from 7.4.7 to 7.7.0
+    
+    Bumps [@sendgrid/mail](https://github.com/sendgrid/sendgrid-nodejs) from 7.4.7 to 7.7.0.
+    - [Release notes](https://github.com/sendgrid/sendgrid-nodejs/releases)
+    - [Changelog](https://github.com/sendgrid/sendgrid-nodejs/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/sendgrid/sendgrid-nodejs/compare/7.4.7...7.7.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@sendgrid/mail"
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 648fcee21372ea71d1076d0580b320637d26ffed[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 20 11:12:03 2023 +0000
+
+    Bump all-contributors-cli from 6.20.0 to 6.24.0
+    
+    Bumps [all-contributors-cli](https://github.com/all-contributors/all-contributors-cli) from 6.20.0 to 6.24.0.
+    - [Release notes](https://github.com/all-contributors/all-contributors-cli/releases)
+    - [Commits](https://github.com/all-contributors/all-contributors-cli/compare/v6.20.0...v6.24.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: all-contributors-cli
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 0938ce3cd6966e6b0cc8eb381f074f4cd9db1a3c[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 20 11:09:44 2023 +0000
+
+    Bump date-fns from 2.24.0 to 2.29.3
+    
+    Bumps [date-fns](https://github.com/date-fns/date-fns) from 2.24.0 to 2.29.3.
+    - [Release notes](https://github.com/date-fns/date-fns/releases)
+    - [Changelog](https://github.com/date-fns/date-fns/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/date-fns/date-fns/compare/v2.24.0...v2.29.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: date-fns
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit dc07fc57f2be6cffdf7adc30d43dbde1d019c67f[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 20 11:08:13 2023 +0000
+
+    Bump react-share from 4.4.0 to 4.4.1
+    
+    Bumps [react-share](https://github.com/nygardk/react-share) from 4.4.0 to 4.4.1.
+    - [Release notes](https://github.com/nygardk/react-share/releases)
+    - [Changelog](https://github.com/nygardk/react-share/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/nygardk/react-share/compare/v4.4.0...v4.4.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: react-share
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 0707ac2958f8e719d65a2283f4044337705abf2e[m
+Merge: d8edfc8 aeae192
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Feb 14 00:47:38 2023 +0100
+
+    Merge pull request #73 from Blazity/dependabot/npm_and_yarn/next/bundle-analyzer-13.1.6
+    
+    Bump @next/bundle-analyzer from 12.2.4 to 13.1.6
+
+[33mcommit d8edfc8f70198d1fd8d197bed5ccf77c9fd3e6e7[m
+Merge: f3637ef 8edf819
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Feb 14 00:47:27 2023 +0100
+
+    Merge pull request #70 from Blazity/dependabot/npm_and_yarn/next-mdx-remote-4.3.0
+    
+    Bump next-mdx-remote from 4.1.0 to 4.3.0
+
+[33mcommit f3637ef6663574c164783b194b3924d906d049b4[m
+Merge: 33e8514 e7f924c
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Feb 14 00:47:16 2023 +0100
+
+    Merge pull request #68 from Blazity/dependabot/npm_and_yarn/eslint-plugin-jsx-a11y-6.7.1
+    
+    Bump eslint-plugin-jsx-a11y from 6.4.1 to 6.7.1
+
+[33mcommit 33e85148bbfe155267665a46c69cff04101ed0ab[m
+Merge: 7856cef aae8884
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Feb 14 00:46:45 2023 +0100
+
+    Merge pull request #58 from Blazity/dependabot/npm_and_yarn/eslint-plugin-flowtype-5.10.0
+    
+    Bump eslint-plugin-flowtype from 5.9.2 to 5.10.0
+
+[33mcommit aeae192522b039f7e601625059925b94f184cc43[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 30 10:15:48 2023 +0000
+
+    Bump @next/bundle-analyzer from 12.2.4 to 13.1.6
+    
+    Bumps [@next/bundle-analyzer](https://github.com/vercel/next.js/tree/HEAD/packages/next-bundle-analyzer) from 12.2.4 to 13.1.6.
+    - [Release notes](https://github.com/vercel/next.js/releases)
+    - [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+    - [Commits](https://github.com/vercel/next.js/commits/v13.1.6/packages/next-bundle-analyzer)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@next/bundle-analyzer"
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 8edf81995c7c4b81569bcaccaa87ce4ea63b51e6[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 23 10:32:12 2023 +0000
+
+    Bump next-mdx-remote from 4.1.0 to 4.3.0
+    
+    Bumps [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) from 4.1.0 to 4.3.0.
+    - [Release notes](https://github.com/hashicorp/next-mdx-remote/releases)
+    - [Commits](https://github.com/hashicorp/next-mdx-remote/compare/v4.1.0...v4.3.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: next-mdx-remote
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit e7f924c4429ee87eebbcaa35f85bf737b97de91d[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 16 10:07:49 2023 +0000
+
+    Bump eslint-plugin-jsx-a11y from 6.4.1 to 6.7.1
+    
+    Bumps [eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) from 6.4.1 to 6.7.1.
+    - [Release notes](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/releases)
+    - [Changelog](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/compare/v6.4.1...v6.7.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint-plugin-jsx-a11y
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit aae88847beac4a97c49a4194b87b366dd50cc6f3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 12 10:05:52 2022 +0000
+
+    Bump eslint-plugin-flowtype from 5.9.2 to 5.10.0
+    
+    Bumps [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype) from 5.9.2 to 5.10.0.
+    - [Release notes](https://github.com/gajus/eslint-plugin-flowtype/releases)
+    - [Commits](https://github.com/gajus/eslint-plugin-flowtype/compare/v5.9.2...v5.10.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint-plugin-flowtype
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 7856cef71ae14d3347d91b2e5003e161b78ef138[m
+Merge: 6ad5432 162fc2a
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Dec 11 16:12:52 2022 +0100
+
+    Merge pull request #46 from Blazity/dependabot/npm_and_yarn/svgr/webpack-6.5.1
+    
+    Bump @svgr/webpack from 5.5.0 to 6.5.1
+
+[33mcommit 162fc2aac5ba7d87ce70f086f52366d67fffaaf7[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Dec 11 15:08:07 2022 +0000
+
+    Bump @svgr/webpack from 5.5.0 to 6.5.1
+    
+    Bumps [@svgr/webpack](https://github.com/gregberge/svgr) from 5.5.0 to 6.5.1.
+    - [Release notes](https://github.com/gregberge/svgr/releases)
+    - [Changelog](https://github.com/gregberge/svgr/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/gregberge/svgr/compare/v5.5.0...v6.5.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@svgr/webpack"
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 6ad54321c02863aeab4f92c9a23a4797cd7a9c5b[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Dec 11 16:06:23 2022 +0100
+
+    Revert "Merge pull request #51 from jamespohalloran/upgrade-tina"
+    
+    This reverts commit eaf5158766181dfcf3723fbf1162232200ac060e, reversing
+    changes made to 8f83912338652020259b1b6756295a10e90fc4dd.
+
+[33mcommit 42ad276e61377097a95ffd026957b484508d41ec[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Dec 9 19:10:20 2022 +0100
+
+    dirty fix tinacms useTina hook integration
+
+[33mcommit ebd3b0dda3887b444cf6e45cd2ce3d853acc452a[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Dec 9 19:06:21 2022 +0100
+
+    dirty fix tinacms useTina hook integration
+
+[33mcommit ed71be1f42747bf0bc20b77ba0caf9b4542461be[m
+Merge: 6a41660 9009e54
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Dec 9 19:04:52 2022 +0100
+
+    Merge pull request #37 from Blazity/dependabot/npm_and_yarn/eslint-plugin-react-hooks-4.6.0
+    
+    Bump eslint-plugin-react-hooks from 4.2.0 to 4.6.0
+
+[33mcommit 6a416606f759e95e247480bb7f16a6c39c951972[m
+Merge: de7809a 442f536
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Dec 9 19:04:43 2022 +0100
+
+    Merge pull request #39 from Blazity/dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-4.33.0
+    
+    Bump @typescript-eslint/eslint-plugin from 4.31.0 to 4.33.0
+
+[33mcommit de7809a4a58cc297c4486c0871e113b90c1bcd95[m
+Merge: eaf5158 1147686
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Dec 9 19:04:24 2022 +0100
+
+    Merge pull request #57 from neilk17/delete-redundant-vscode-settings
+    
+    delete redundant vscode settings
+
+[33mcommit 1147686e714ddc303c4e9bdc61ae9a73925cc5c5[m
+Author: neilk17 <kanakianeil@gmail.com>
+Date:   Fri Dec 9 11:36:49 2022 -0500
+
+    delete redundant vscode settings
+
+[33mcommit eaf5158766181dfcf3723fbf1162232200ac060e[m
+Merge: 8f83912 771a6a6
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Dec 1 22:36:49 2022 +0100
+
+    Merge pull request #51 from jamespohalloran/upgrade-tina
+    
+    Upgrade-tina
+
+[33mcommit 771a6a694726a90db47262ecf171144c089d7589[m
+Author: James O'Halloran <james.p.ohalloran@gmail.com>
+Date:   Thu Dec 1 14:58:35 2022 -0400
+
+    tweak collection name
+
+[33mcommit 3daf8f10b1ca5c7ac6add1296482c0f17f3a682b[m
+Author: James O'Halloran <james.p.ohalloran@gmail.com>
+Date:   Thu Dec 1 14:52:02 2022 -0400
+
+    use latest tina contextual api
+
+[33mcommit 8c59de0a7f87fe7a275bb70384c37c84db11b0d3[m
+Author: James O'Halloran <james.p.ohalloran@gmail.com>
+Date:   Thu Dec 1 14:19:10 2022 -0400
+
+    Upgrade tina
+
+[33mcommit 8f83912338652020259b1b6756295a10e90fc4dd[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Nov 26 16:41:05 2022 +0100
+
+    Revert "add made by bart widget"
+    
+    This reverts commit 66b927ffbf24835517aa8e779b09df113b8a21f2.
+
+[33mcommit 66b927ffbf24835517aa8e779b09df113b8a21f2[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Nov 13 00:55:47 2022 +0100
+
+    add made by bart widget
+
+[33mcommit 375ae1bdbceac9799b849d5951b41e884074b98a[m
+Merge: 4233a52 1f3b397
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Sep 13 23:09:54 2022 +0200
+
+    Merge pull request #42 from gavinmgrant/feature/color-switcher-icons
+    
+    add width and height svg attributes for visibility on iphone
+
+[33mcommit 1f3b397de9431be31e3a7c961d588e64a1d4c1bc[m
+Author: Gavin Grant <gavingrant@gmail.com>
+Date:   Sat Sep 10 18:25:18 2022 -0700
+
+    add width and height svg attributes for visibility on iphone
+
+[33mcommit 442f5363d9606a1d7c97fd890f4739a4695daadb[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 22 10:22:35 2022 +0000
+
+    Bump @typescript-eslint/eslint-plugin from 4.31.0 to 4.33.0
+    
+    Bumps [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) from 4.31.0 to 4.33.0.
+    - [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
+    - [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
+    - [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v4.33.0/packages/eslint-plugin)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@typescript-eslint/eslint-plugin"
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 9009e54e91e9343b1e9caadb4f46b8e99c731dc2[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 22 10:18:09 2022 +0000
+
+    Bump eslint-plugin-react-hooks from 4.2.0 to 4.6.0
+    
+    Bumps [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/HEAD/packages/eslint-plugin-react-hooks) from 4.2.0 to 4.6.0.
+    - [Release notes](https://github.com/facebook/react/releases)
+    - [Changelog](https://github.com/facebook/react/blob/main/packages/eslint-plugin-react-hooks/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/react/commits/HEAD/packages/eslint-plugin-react-hooks)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint-plugin-react-hooks
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 4233a52c7d5441e1582479c0f087c262d92a112d[m
+Merge: c8d5550 e4f465b
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 16 19:08:35 2022 +0200
+
+    Merge pull request #32 from Blazity/dependabot/npm_and_yarn/typescript-4.7.4
+    
+    Bump typescript from 4.4.2 to 4.7.4
+
+[33mcommit c8d55502e10e31c946de7e4fd2880c1b005eff66[m
+Merge: 53d3a22 c9c7fb5
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 16 19:06:13 2022 +0200
+
+    Merge pull request #34 from Blazity/dependabot/npm_and_yarn/copy-webpack-plugin-11.0.0
+    
+    Bump copy-webpack-plugin from 9.0.1 to 11.0.0
+
+[33mcommit 53d3a22b3463e79dc42d718138a3968f6075f635[m
+Merge: 1c630c2 e852699
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 16 19:05:34 2022 +0200
+
+    Merge pull request #31 from Blazity/dependabot/npm_and_yarn/babel/eslint-parser-7.18.9
+    
+    Bump @babel/eslint-parser from 7.15.4 to 7.18.9
+
+[33mcommit c9c7fb5f9cc173e29a30079fdaec3726edb4cf4a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 15 10:21:31 2022 +0000
+
+    Bump copy-webpack-plugin from 9.0.1 to 11.0.0
+    
+    Bumps [copy-webpack-plugin](https://github.com/webpack-contrib/copy-webpack-plugin) from 9.0.1 to 11.0.0.
+    - [Release notes](https://github.com/webpack-contrib/copy-webpack-plugin/releases)
+    - [Changelog](https://github.com/webpack-contrib/copy-webpack-plugin/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/webpack-contrib/copy-webpack-plugin/compare/v9.0.1...v11.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: copy-webpack-plugin
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit e4f465bb4fef0315fe94bf6431189b89c1e45454[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 15 10:20:47 2022 +0000
+
+    Bump typescript from 4.4.2 to 4.7.4
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.4.2 to 4.7.4.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.4.2...v4.7.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit e852699da62fea95f798ad1191b5e2a91b910f82[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 15 10:20:31 2022 +0000
+
+    Bump @babel/eslint-parser from 7.15.4 to 7.18.9
+    
+    Bumps [@babel/eslint-parser](https://github.com/babel/babel/tree/HEAD/eslint/babel-eslint-parser) from 7.15.4 to 7.18.9.
+    - [Release notes](https://github.com/babel/babel/releases)
+    - [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/babel/babel/commits/v7.18.9/eslint/babel-eslint-parser)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@babel/eslint-parser"
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 1c630c24e8e46d44c2b6b22dafbdf2e340401754[m
+Merge: 885bd1c a93187a
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 9 16:04:54 2022 +0200
+
+    Merge pull request #28 from Blazity/dependabot/npm_and_yarn/next-mdx-remote-4.1.0
+    
+    Bump next-mdx-remote from 3.0.5 to 4.1.0
+
+[33mcommit 885bd1c286fb040f5090a487a3992269ddc97edd[m
+Merge: 592e8ea d652e40
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 9 16:04:43 2022 +0200
+
+    Merge pull request #29 from Blazity/dependabot/npm_and_yarn/swiper-8.3.2
+    
+    Bump swiper from 7.0.7 to 8.3.2
+
+[33mcommit d652e40ae969c939368d62244209b66e2e75ae92[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Aug 9 11:59:40 2022 +0000
+
+    Bump swiper from 7.0.7 to 8.3.2
+    
+    Bumps [swiper](https://github.com/nolimits4web/Swiper) from 7.0.7 to 8.3.2.
+    - [Release notes](https://github.com/nolimits4web/Swiper/releases)
+    - [Changelog](https://github.com/nolimits4web/swiper/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/nolimits4web/Swiper/compare/v7.0.7...v8.3.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: swiper
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit a93187a1ba1b11c3ba97d683c2336abcb462088e[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Aug 9 11:55:36 2022 +0000
+
+    Bump next-mdx-remote from 3.0.5 to 4.1.0
+    
+    Bumps [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) from 3.0.5 to 4.1.0.
+    - [Release notes](https://github.com/hashicorp/next-mdx-remote/releases)
+    - [Commits](https://github.com/hashicorp/next-mdx-remote/compare/3.0.5...v4.1.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: next-mdx-remote
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 592e8ea849bf57697881052670e96f5f5fba52f1[m
+Merge: 68ab3c3 d981e80
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 9 13:53:23 2022 +0200
+
+    Merge pull request #27 from Blazity/dependabot/npm_and_yarn/use-resize-observer-9.0.2
+    
+    Bump use-resize-observer from 8.0.0 to 9.0.2
+
+[33mcommit 68ab3c31410954293ec4c76c2b373ee7e38040ce[m
+Merge: 8a1d469 032befb
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 9 13:52:44 2022 +0200
+
+    Merge pull request #30 from Blazity/dependabot/npm_and_yarn/styled-components-and-types/styled-components-5.3.5
+    
+    Bump styled-components and @types/styled-components
+
+[33mcommit 032befbfd277eb07b98ede6e6e75ab289f1557f9[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Aug 9 11:00:14 2022 +0000
+
+    Bump styled-components and @types/styled-components
+    
+    Bumps [styled-components](https://github.com/styled-components/styled-components) and [@types/styled-components](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/styled-components). These dependencies needed to be updated together.
+    
+    Updates `styled-components` from 5.3.3 to 5.3.5
+    - [Release notes](https://github.com/styled-components/styled-components/releases)
+    - [Changelog](https://github.com/styled-components/styled-components/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/styled-components/styled-components/compare/v5.3.3...v5.3.5)
+    
+    Updates `@types/styled-components` from 5.1.14 to 5.1.25
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/styled-components)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: styled-components
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    - dependency-name: "@types/styled-components"
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit d981e80ad64663a867ef056ec984840fe90d8487[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Aug 9 10:59:15 2022 +0000
+
+    Bump use-resize-observer from 8.0.0 to 9.0.2
+    
+    Bumps [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) from 8.0.0 to 9.0.2.
+    - [Release notes](https://github.com/ZeeCoder/use-resize-observer/releases)
+    - [Changelog](https://github.com/ZeeCoder/use-resize-observer/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/ZeeCoder/use-resize-observer/compare/v8.0.0...v9.0.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: use-resize-observer
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 8a1d4696f31a53a4ac65bc5e889a897201ad0ba7[m
+Merge: c2b090f e8ae51c
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 9 12:57:58 2022 +0200
+
+    Merge pull request #21 from Blazity/dependabot/npm_and_yarn/prism-react-renderer-1.3.5
+    
+    Bump prism-react-renderer from 1.2.1 to 1.3.5
+
+[33mcommit c2b090ffc04d054e01ee49a284b90c58568ee9db[m
+Merge: ab58c82 56ed4ee
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 9 12:57:39 2022 +0200
+
+    Merge pull request #23 from Blazity/dependabot/npm_and_yarn/remark-slug-7.0.1
+    
+    Bump remark-slug from 7.0.0 to 7.0.1
+
+[33mcommit ab58c8291cf67848355d92115371d5ba2210f7da[m
+Merge: 9183933 c21159e
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 9 12:57:23 2022 +0200
+
+    Merge pull request #24 from Blazity/dependabot/npm_and_yarn/remark-gfm-3.0.1
+    
+    Bump remark-gfm from 3.0.0 to 3.0.1
+
+[33mcommit 9183933a9e8921e4b3bcac29c987fd1e456bed7c[m
+Merge: cee82fd b9794ce
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 9 12:57:09 2022 +0200
+
+    Merge pull request #25 from Blazity/dependabot/npm_and_yarn/nextjs-color-mode-1.0.5
+    
+    Bump nextjs-color-mode from 1.0.4 to 1.0.5
+
+[33mcommit cee82fd3aab953d87a1ef16b1b2d9ad550db17b5[m
+Merge: 05a0411 cdbcdd9
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Aug 9 12:56:55 2022 +0200
+
+    Merge pull request #26 from Blazity/dependabot/npm_and_yarn/next/bundle-analyzer-12.2.4
+    
+    Bump @next/bundle-analyzer from 11.1.2 to 12.2.4
+
+[33mcommit cdbcdd9af7eaefb9e90c91cbfe809a42be0bb381[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 8 10:39:49 2022 +0000
+
+    Bump @next/bundle-analyzer from 11.1.2 to 12.2.4
+    
+    Bumps [@next/bundle-analyzer](https://github.com/vercel/next.js/tree/HEAD/packages/next-bundle-analyzer) from 11.1.2 to 12.2.4.
+    - [Release notes](https://github.com/vercel/next.js/releases)
+    - [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+    - [Commits](https://github.com/vercel/next.js/commits/v12.2.4/packages/next-bundle-analyzer)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@next/bundle-analyzer"
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b9794ce5d091aa57c879d9206a745141af2446d6[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 4 10:19:03 2022 +0000
+
+    Bump nextjs-color-mode from 1.0.4 to 1.0.5
+    
+    Bumps [nextjs-color-mode](https://github.com/bmstefanski/next-color-mode) from 1.0.4 to 1.0.5.
+    - [Release notes](https://github.com/bmstefanski/next-color-mode/releases)
+    - [Commits](https://github.com/bmstefanski/next-color-mode/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nextjs-color-mode
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit c21159e837a944e565a60543efe30707f3100731[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 4 10:18:36 2022 +0000
+
+    Bump remark-gfm from 3.0.0 to 3.0.1
+    
+    Bumps [remark-gfm](https://github.com/remarkjs/remark-gfm) from 3.0.0 to 3.0.1.
+    - [Release notes](https://github.com/remarkjs/remark-gfm/releases)
+    - [Commits](https://github.com/remarkjs/remark-gfm/compare/3.0.0...3.0.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: remark-gfm
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 56ed4eeee89f46c1e0fb1389b7d92e9c7c0ff2ed[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 4 10:18:16 2022 +0000
+
+    Bump remark-slug from 7.0.0 to 7.0.1
+    
+    Bumps [remark-slug](https://github.com/remarkjs/remark-slug) from 7.0.0 to 7.0.1.
+    - [Release notes](https://github.com/remarkjs/remark-slug/releases)
+    - [Commits](https://github.com/remarkjs/remark-slug/compare/7.0.0...7.0.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: remark-slug
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit e8ae51ca517826b38c8db1381c026ec3e9601751[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 4 10:16:51 2022 +0000
+
+    Bump prism-react-renderer from 1.2.1 to 1.3.5
+    
+    Bumps [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) from 1.2.1 to 1.3.5.
+    - [Release notes](https://github.com/FormidableLabs/prism-react-renderer/releases)
+    - [Commits](https://github.com/FormidableLabs/prism-react-renderer/compare/v1.2.1...v1.3.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: prism-react-renderer
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 05a0411919d998c5e13e40cda5516c014c154680[m
+Merge: ddc4c51 26bb08c
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Aug 4 12:12:53 2022 +0200
+
+    Merge pull request #20 from Blazity/dependabot/npm_and_yarn/log4js-6.6.1
+    
+    Bump log4js from 6.3.0 to 6.6.1
+
+[33mcommit ddc4c51ed59bc2e8d00a9782c43e52734e025c59[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Aug 4 12:12:31 2022 +0200
+
+    Setup dependabot
+
+[33mcommit 26bb08c8fa11822a8afac2ea6543cdc3b653e8a9[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 4 10:05:06 2022 +0000
+
+    Bump log4js from 6.3.0 to 6.6.1
+    
+    Bumps [log4js](https://github.com/log4js-node/log4js-node) from 6.3.0 to 6.6.1.
+    - [Release notes](https://github.com/log4js-node/log4js-node/releases)
+    - [Changelog](https://github.com/log4js-node/log4js-node/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/log4js-node/log4js-node/compare/v6.3.0...v6.6.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: log4js
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit bfbaf86e1a76dad8179c4ec7fb4faa4b60024390[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Apr 9 23:16:49 2022 +0200
+
+    Create codeql-analysis.yml
+
+[33mcommit d892560a62f1fa9e50acdc1cc63004865607909f[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Feb 13 23:21:12 2022 +0100
+
+    use new next compiler
+
+[33mcommit 6f4e05558cc0fc24c27969cc6bbe657755fd50ab[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Feb 12 00:01:00 2022 +0100
+
+     Add @fdukat as a contributor
+
+[33mcommit 8f42a8cf23624197a5d205b18a2811a2db5046d0[m
+Merge: bca76f1 ed0e054
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Feb 11 23:53:24 2022 +0100
+
+    Merge pull request #9 from fdukat/feature/ReadmeImprovements
+    
+    Improve README file
+
+[33mcommit ed0e05443df2a444a49fcdab67dc603572a5339a[m
+Author: Filip Dukat <filip.dukat@protonmail.com>
+Date:   Fri Feb 11 23:35:56 2022 +0100
+
+    Improve Readme file
+
+[33mcommit bca76f1dc0db806633073eace6f8ed1cb4930f10[m
+Merge: 94f4ad0 e0de4d1
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Feb 7 01:44:32 2022 +0100
+
+    Merge pull request #8 from Blazity/dependabot/npm_and_yarn/next-11.1.3
+    
+    Bump next from 11.1.3-canary.54 to 11.1.3
+
+[33mcommit e0de4d163ff1da52df6f0762dd4c16c55f9345d0[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Feb 6 23:59:49 2022 +0000
+
+    Bump next from 11.1.3-canary.54 to 11.1.3
+    
+    Bumps [next](https://github.com/vercel/next.js) from 11.1.3-canary.54 to 11.1.3.
+    - [Release notes](https://github.com/vercel/next.js/releases)
+    - [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+    - [Commits](https://github.com/vercel/next.js/compare/v11.1.3-canary.54...v11.1.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: next
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 94f4ad06f08fe088a6db2fb4e28f5feb72b4bb8a[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Jan 13 01:11:37 2022 +0100
+
+     Add @logan-anderson as a contributor
+
+[33mcommit c9bde61481be3b434ed76352a986b1052c109e70[m
+Merge: 909b693 22b4d03
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Jan 13 01:07:20 2022 +0100
+
+    Merge pull request #6 from logan-anderson/fix/tinacms
+    
+    Fix for TinaCMS integration
+
+[33mcommit 22b4d03c4b29f88cebbc9762c99c017c91afd993[m
+Author: Logan Anderson <landerson2@upei.ca>
+Date:   Wed Jan 12 10:11:59 2022 -0500
+
+    remove comment
+
+[33mcommit e570e0383a9096e5a5258ab0024925057ff8e896[m
+Author: Logan Anderson <landerson2@upei.ca>
+Date:   Wed Jan 12 09:58:14 2022 -0500
+
+    update readme
+
+[33mcommit aa97163e5d5fea9166d4e19f27260355f3d95231[m
+Author: Logan Anderson <landerson2@upei.ca>
+Date:   Wed Jan 12 09:53:47 2022 -0500
+
+    added admin
+
+[33mcommit 854d4655f4f9ce15bcfa56b2179c0d07027a995f[m
+Author: Logan Anderson <landerson2@upei.ca>
+Date:   Wed Jan 12 09:50:35 2022 -0500
+
+    small fixed for tinaCMS intagraion
+
+[33mcommit c97863795835c1bcb6f54aae4bde091b438f5709[m
+Author: Logan Anderson <landerson2@upei.ca>
+Date:   Wed Jan 12 09:50:24 2022 -0500
+
+    small fixed for tinaCMS intagraion
+
+[33mcommit 909b693aa1fd8910e5ae6f983dcd1abf4653e1f8[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Dec 20 15:12:16 2021 +0100
+
+    Update README.md
+
+[33mcommit dc66feeb02953f6f745e068da9a6e6eed58dcd09[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Dec 17 15:29:41 2021 +0100
+
+     Add @jbryn as a contributor
+
+[33mcommit b28e75f47b15cad5e6da394edde4ab1dc2b96d87[m
+Merge: 8a1694d 68913b1
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Dec 17 15:28:10 2021 +0100
+
+    Merge pull request #5 from Blazity/tinacms-integration
+    
+    tinacms integration
+
+[33mcommit 68913b18bf493d62e5150af5c9d01e6a2829c424[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Dec 17 15:22:30 2021 +0100
+
+    lets make tina bold
+
+[33mcommit c14e65922157de42e8f090b276138e370a40782a[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Dec 17 15:20:45 2021 +0100
+
+    update readme with tina instruction
+
+[33mcommit d6490bbe5c3c8fa8b3c620f6bb84ff8b60e35f52[m
+Author: Jan Bryński <brynski.jan@gmail.com>
+Date:   Tue Dec 14 16:45:51 2021 +0100
+
+    fix read time and remove demo pages
+
+[33mcommit b5df59ab3087aad7f2bcae2af7feae45a4940b29[m
+Author: Jan Bryński <brynski.jan@gmail.com>
+Date:   Tue Dec 14 15:59:06 2021 +0100
+
+    setup rich text editor in tina
+
+[33mcommit b176b7ea130c4ecf5fc29a9a02634cc1f12efb83[m
+Author: Jan Bryński <brynski.jan@gmail.com>
+Date:   Thu Dec 9 17:22:50 2021 +0100
+
+    make posts editable with tina
+
+[33mcommit 989176ab9eca42cc1887ae5fdd2ebe06b391b097[m
+Author: Jan Bryński <brynski.jan@gmail.com>
+Date:   Tue Dec 7 23:34:31 2021 +0100
+
+    make getStaticPaths compatible with tina
+
+[33mcommit 957b696fdf0a12885a5f5f1da881ab3bbd4cd414[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Dec 6 17:36:59 2021 +0100
+
+    setup tinacms
+
+[33mcommit 8a1694db443c5a84e60bd54f124782bdcc92e7a7[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Dec 2 00:04:03 2021 +0100
+
+    make scrollable blog posts more responsive
+
+[33mcommit c1f66edee3b30a70b39a7b71e9da81e6392409ca[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Nov 30 14:48:56 2021 +0100
+
+    add one-click deploy instructions
+
+[33mcommit 6aa5ad4bd833369e8cbf00d7bfc29aa9d8676624[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Oct 19 20:29:07 2021 +0200
+
+    Update README.md
+
+[33mcommit 6d675032fe0f772a398e4e1d9bb849c7272f948a[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Oct 19 00:17:10 2021 +0200
+
+    adjust copy
+
+[33mcommit 6c08487230c00d8a550610efbd648e57b6b2f32b[m
+Merge: 61c4111 b8f10d0
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 21:50:29 2021 +0200
+
+    Merge pull request #1 from Blazity/add-license-1
+    
+    Create LICENSE
+
+[33mcommit b8f10d08ac50c7138ea62c61595165f996c27e93[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 21:50:19 2021 +0200
+
+    Create LICENSE
+
+[33mcommit 61c41115c4d60ea6cec87efa8bf7e02036dac0b8[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 14:00:17 2021 +0200
+
+    Update README.md
+
+[33mcommit b3fa9cbe93e58e054a79985c290dd4a77eada267[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 13:58:36 2021 +0200
+
+    fix prism theme
+
+[33mcommit 8fa2a44695bc9e886e844d622fa5afabd3760667[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 12:45:40 2021 +0200
+
+    Add getting started section to readme
+
+[33mcommit 3a468c899937cd977571c7cc784a79e6e4b509ee[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 10:56:30 2021 +0200
+
+    change emotes in features list
+
+[33mcommit e8a09cf0fde2fd5a93bfe7e1774c2995d767437d[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 02:20:01 2021 +0200
+
+    Update README.md
+
+[33mcommit 1362e2994b93b329de77e6f7c421251dc63021c7[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 02:00:33 2021 +0200
+
+     Add @ilasota as a contributor
+
+[33mcommit 7137554184a3a5bda44b75cc0bff1168307722e4[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 02:00:28 2021 +0200
+
+     Add @bmstefanski as a contributor
+
+[33mcommit 8969db1cac04486ca306a5d81a2c87edac8840b7[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 01:43:39 2021 +0200
+
+    setup all contributors
+
+[33mcommit 3220b24d0797ecaa566907db43b04bde528285b4[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 01:04:05 2021 +0200
+
+    integrate with nextjs-color-mode
+
+[33mcommit cab3793951a232f4868ecabeb1ad55d144f16791[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 18 00:38:52 2021 +0200
+
+    add dark theme
+
+[33mcommit 0529ab4d504533bbb199b991188d409bafef6fa3[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Oct 17 23:56:24 2021 +0200
+
+    improve a11y score
+
+[33mcommit 1a882baee6a99dfe1d8fa1d28989d9217debe166[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Oct 17 23:14:54 2021 +0200
+
+    integrate newsletter modal with mailchimp
+
+[33mcommit 9c31bdbe3f6ea3ab5b74b625ab28ed0e542a3b37[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Oct 17 19:08:53 2021 +0200
+
+    integrate contact form with sendgrid
+
+[33mcommit aa57bf5d3372444b17c6f4568cfc084aad262767[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Oct 16 19:30:38 2021 +0200
+
+    add features page & YoutubeVideo component
+
+[33mcommit e8cc7c25845217c4c018084a0457f719bbafaf45[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Oct 16 18:25:15 2021 +0200
+
+    add faq section to pricing page
+
+[33mcommit 7e6a00b8ff35a12271c3a43c306f7ceb045a3620[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Oct 16 17:52:10 2021 +0200
+
+    add pricing cards
+
+[33mcommit 635a909559fdca6b82f394f2ef691b547d756d28[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Wed Oct 13 18:04:32 2021 +0200
+
+    change background for first half of the homepage
+
+[33mcommit 9e022aaa0823c9b66a31f83af08d626732574f8d[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Oct 12 01:46:32 2021 +0200
+
+    Create README.md
+
+[33mcommit a31dde2d41f3117a0b63b22ca2cc8962b9e64dca[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Oct 12 00:41:19 2021 +0200
+
+    change copy & colors for card elements
+
+[33mcommit cec38bcafd679dd60fb40c4b2f68a55b8e84fe17[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Oct 12 00:25:58 2021 +0200
+
+    link to newsletter modal in wave cta component
+
+[33mcommit 195709a9a8857e4293c24d5c310a4bb34078f64f[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Oct 12 00:20:04 2021 +0200
+
+    implement 404 page
+
+[33mcommit e0bc94d77e20bd8696b29eee4259f1fa9b6a511b[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Oct 12 00:05:24 2021 +0200
+
+    add blog index page
+
+[33mcommit abb4486fdb2e54b3951d3fb6682a160ecb1c03ef[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 11 23:53:02 2021 +0200
+
+    add cookies & privacy policy
+
+[33mcommit 13a9b64b5918d9db3e9febe5f49358e3b6e494ef[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 11 23:32:19 2021 +0200
+
+    fix imports order
+
+[33mcommit 6e97192e0145e70a0b932545acb8bbbc9bf419bf[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 11 23:13:48 2021 +0200
+
+    add bottom cta to every page
+
+[33mcommit d61a4622ed032ba320d3d43644997cdc495ba42e[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 11 23:01:22 2021 +0200
+
+    adjust footers copy
+
+[33mcommit 4e47dc48a5798a86ee8ee84449623582406501bf[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 11 22:57:21 2021 +0200
+
+    footer polishing
+
+[33mcommit 1c0c88baa03af2d5507183537ff503f3b011873d[m
+Merge: 5f509bd 82dd4c5
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 11 00:06:21 2021 +0200
+
+    Merge branch 'footer'
+
+[33mcommit 5f509bdc029a5fc3c9aa2636bbcf427fdf3fbcd8[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Oct 10 23:37:51 2021 +0200
+
+    use real article in homepage's list
+
+[33mcommit df2b9f2d0fd87762745410b94fe66859bc80e688[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Oct 10 23:10:54 2021 +0200
+
+    change copy of test-article
+
+[33mcommit a50385f8375eba00a763178206e5ae5ed1aa6a3e[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Oct 10 22:50:58 2021 +0200
+
+    add share widget to single article page
+
+[33mcommit f300bfe34d42bb2ac83a3f71f4977bc4a98fc7f0[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Oct 10 16:35:32 2021 +0200
+
+    add header section to a single article page
+
+[33mcommit 95dfe24f5b354b72b74b2194df08a35341500822[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Oct 10 15:38:03 2021 +0200
+
+    fix blog components types
+
+[33mcommit 2618dbd548263e69fd064f4b4d77d45619db2bf5[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 4 23:13:12 2021 +0200
+
+    add prototype version of blog
+
+[33mcommit 75c9e69fb01a3643eb3acca0a71428ac657868c2[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 4 21:29:13 2021 +0200
+
+    implement newsletter modal
+
+[33mcommit 82dd4c5454c32d58e509ed7a83296d0e0c78f9bc[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Mon Oct 4 17:57:56 2021 +0200
+
+    wrap footer with Container, add spacing to ListItem and ShareBar
+
+[33mcommit fceb11479910f1c5381858dbb873341b82d703aa[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Mon Oct 4 15:46:16 2021 +0200
+
+    add ShareBar
+
+[33mcommit 9a8e257b289b4a9f5a66e1f6fc149a9fc15351e3[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Mon Oct 4 15:46:02 2021 +0200
+
+    install react-share
+
+[33mcommit 087d95e2532d7cec8022d3f5e86b07a364378d52[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Mon Oct 4 15:04:59 2021 +0200
+
+    change FooterList variable names
+
+[33mcommit ce222e28b6a0ced3b52deb638eb8e04cae480d46[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Mon Oct 4 15:00:17 2021 +0200
+
+    move FooterList types from types.ts to footer component
+
+[33mcommit fe6aca649d1ac8dff1f3ea12057c48cc4cf6ab89[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Mon Oct 4 14:58:27 2021 +0200
+
+    change ListItem font color and media queries handling
+
+[33mcommit 163be997cb66e3b5fae5a998b29dd0edffaae48d[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Mon Oct 4 13:08:29 2021 +0200
+
+    change the way footer is build
+
+[33mcommit 3c03956fc3b066552a4ba438a5618d0b8ec596da[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Thu Sep 30 14:01:50 2021 +0200
+
+    add padding to ListItems
+
+[33mcommit f01488e7b16095acfde8bc17ce54734548891b25[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Thu Sep 30 14:01:18 2021 +0200
+
+    add FooterBar
+
+[33mcommit 131d80d99c0234d3cff649661705b1038c763d29[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Oct 4 02:08:31 2021 +0200
+
+    fix build
+
+[33mcommit 9d043dd23a9a5c60458808714431a91fda5283c0[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Oct 3 02:36:27 2021 +0200
+
+    replace demo illustrations with different ones
+
+[33mcommit 46b7cc423b2ba0f85e9fe44c4d6ce4e954225438[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Oct 2 01:31:32 2021 +0200
+
+    remove blurry effect from navbar and make it plain white
+
+[33mcommit 3759b24f932030d5905e68d3b9ff89f8413d4fbd[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Oct 2 01:25:49 2021 +0200
+
+    implement contact page
+
+[33mcommit e12837761f2e7f7a14585adfc67ab48612ddb68e[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Oct 1 23:02:08 2021 +0200
+
+    fix blog posts slider responsiveness
+
+[33mcommit e79d806de7d94679087d7938f7a2e1d2cbdd374e[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Oct 1 03:07:46 2021 +0200
+
+    fix section title - description spacings
+
+[33mcommit 5e0693bdcf27b433172bc0ef0bd178d4378ee6aa[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Oct 1 02:51:37 2021 +0200
+
+    implement blog posts slider
+
+[33mcommit 6b505938b3136dbb7213b97f435204ce29243638[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Sep 30 22:59:26 2021 +0200
+
+    replace outlined nav link with a generic button & add arrows to testimonials slider
+
+[33mcommit 03e619bbc78503f4e5ee041052233bc81febe80f[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Thu Sep 30 22:09:43 2021 +0200
+
+    polishing features gallery section
+
+[33mcommit d0813b9ee47aff4be605c963fff725413e550755[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Wed Sep 29 16:57:55 2021 +0200
+
+    change list styling
+
+[33mcommit 3940080c9f51c3080d6897364ed1de2bb211d69e[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Wed Sep 29 14:36:33 2021 +0200
+
+    style list items
+
+[33mcommit d59f4da9fe29a77e695542392afebe433f8fcae3[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Wed Sep 29 14:26:47 2021 +0200
+
+    create footer lists
+
+[33mcommit 3ddbc9c3e0e79ec8f5aa80528f3a98bfc7040484[m
+Author: Igor Lasota <igorlasota07@gmail.com>
+Date:   Wed Sep 29 13:11:44 2021 +0200
+
+    create footer component
+
+[33mcommit 0a7ae0de650ab1fd7dd3545f73f1bf01339da3cb[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Tue Sep 28 00:43:49 2021 +0200
+
+    implement prototype of features gallery section
+
+[33mcommit 0a53c79a18c912318857d92f17fc98aaf23073ff[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Sep 27 03:01:43 2021 +0200
+
+    prevent testimonials slider from exceeding the container
+
+[33mcommit 720852aa698a5dc97f9b758c381b12bd573d8882[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Sep 27 02:53:33 2021 +0200
+
+    remove redundant use of old swiper api
+
+[33mcommit f2f7b56715b7224ed8c2ea188a961cac31939630[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Sep 27 02:52:56 2021 +0200
+
+    implement testimonials slider
+
+[33mcommit 91ec978fb0ab265652b05301fd8d12e19e594be2[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Sep 27 01:51:28 2021 +0200
+
+    make features component more dry
+
+[33mcommit 9e0a9c86b02029d11a657e5f599f580d761adf14[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Sep 27 01:36:57 2021 +0200
+
+    add features section
+
+[33mcommit 2b4620f5ba4a93a44edc5231857f36fd0f910595[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Sep 27 00:21:28 2021 +0200
+
+    implement cta section
+
+[33mcommit 142a86dfc0ae43ea8d98e7b74c7e62e222bb34c5[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 26 01:42:56 2021 +0200
+
+    add cool blur effect to navbar
+
+[33mcommit 2dd9047910c05b22cc9629842af0df37d360f128[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 26 01:30:26 2021 +0200
+
+    adjust hero's copy
+
+[33mcommit 55fb1b217534b5b32c419dc2dc7bf4fdec21be3c[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 26 01:25:32 2021 +0200
+
+    extract over title to a separate component
+
+[33mcommit bf48c78118e4b993524acf7db90ddf3bc327aab2[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 26 01:19:24 2021 +0200
+
+    add link component with animation & extract rich text to a separate component
+
+[33mcommit ee667c416a72bb16210c4721805dd419096570b2[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 26 01:07:12 2021 +0200
+
+    style list & list item in basic section
+
+[33mcommit d683552eea6fe2166ff5cc94a63e0da158f68e09[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 26 00:56:04 2021 +0200
+
+    implement basic section
+
+[33mcommit 483d6ed1f5db773c1b598d9456597652dfcba69a[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Sep 25 15:12:34 2021 +0200
+
+    wrap partners section with container & add title
+
+[33mcommit d245d70262703f750e8dd4f17c380d7169cdc24d[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Sep 25 02:26:32 2021 +0200
+
+    implement partners slider
+
+[33mcommit d6a570d5aca9ec0b7cc6968a33b97d713f9e8f49[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 19 02:09:44 2021 +0200
+
+    add buttons to hero section
+
+[33mcommit de00d949a54fddd0daa0cbdb5b4f3461b5f416ad[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 19 01:27:57 2021 +0200
+
+    move hero section to separate component
+
+[33mcommit b574586255d3b4993988e3d4520c761ee316eb4b[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 19 01:26:10 2021 +0200
+
+    impl prototype of hero section
+
+[33mcommit 12d21e9778fa22392761814ad9f0154e6a45e23f[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 19 00:28:48 2021 +0200
+
+    change font to inter
+
+[33mcommit b93a55ad7870864cc3456d3bae49252c758a5876[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Fri Sep 17 23:14:14 2021 +0200
+
+    add design file to the readme
+
+[33mcommit 5d5cfa35459d894b94a320fa65b1bf1d8c877656[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Sep 18 22:55:34 2021 +0200
+
+    implement drawer
+
+[33mcommit fb767ed04576bfa75f72710e21106baab6176cad[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Sep 18 21:15:07 2021 +0200
+
+    make non-collapsible area smaller
+
+[33mcommit dbe521fe4c51160a9a5ba55d8cf78c9671bca3c8[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Sep 13 23:48:22 2021 +0200
+
+    make navbar collapsible
+
+[33mcommit 1f39273bc537d0a0654d4f05a3411fca73b306d7[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Mon Sep 13 22:54:08 2021 +0200
+
+    implement desktop navbar
+
+[33mcommit 9fb5175e52f6677ab517dd770cefc37d4cfe1272[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 12 01:16:54 2021 +0200
+
+    remove css modules and index page
+
+[33mcommit 18d5d874d61542b8b7707f8b6585ef1a9f83db7c[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sun Sep 12 00:40:42 2021 +0200
+
+    setup styled-components, eslint, etc
+
+[33mcommit a79d33c2e8e34d57c9553b0fcd458fa71ff6e81e[m
+Author: Bart Stefanski <contact@bstefanski.com>
+Date:   Sat Sep 4 02:33:54 2021 +0200
+
+    init
