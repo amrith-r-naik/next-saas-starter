@@ -7,64 +7,46 @@ import { media } from 'utils/media';
 
 const FEATURES = [
   {
-    imageUrl: '/grid-icons/asset-1.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/grid-icons/asset-1.png',
+    title: 'Chest X-ray Diagnosis',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+    'Leveraging AI, the tool detects abnormalities in x-ray scans, aiding doctors in precise diagnoses and effective treatment planning.'    
   },
   {
-    imageUrl: '/grid-icons/asset-2.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/grid-icons/asset-2.png',
+    title: 'Brain MRI Scan Diagnosis',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+    'Harnessing AI technology, the tool identifies irregularities in MRI scans, empowering physicians with accurate diagnostic insights and personalized treatment approaches.'
   },
   {
-    imageUrl: '/grid-icons/asset-3.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/grid-icons/asset-3.png',
+    title: 'Skin Image Diagnosis.',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Utilizing cutting-edge AI algorithms, the tool analyzes skin images to detect abnormalities, aiding dermatologists in accurate diagnoses and personalized treatment recommendations.',
   },
   {
-    imageUrl: '/grid-icons/asset-4.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/grid-icons/asset-4.png',
+    title: 'Eye CT Scan Diagnosis',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Employing advanced AI, the tool identifies diabetic-related anomalies in eye CT scans, furnishing clinicians with precise diagnostic information for tailored treatment strategies.',
   },
   {
-    imageUrl: '/grid-icons/asset-5.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/basicSectionIllustration2.svg',
+    title: 'Seemless Doctor-Patient Connectivity',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Through seamless integration, patients can book appointments with doctors effortlessly, leveraging advanced technology for efficient scheduling and enhancing the healthcare experience.',
   },
   {
-    imageUrl: '/grid-icons/asset-6.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/basicSectionIllustration3.svg',
+    title: '24/7 Healthcare Chatbot',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
-  },
-  {
-    imageUrl: '/grid-icons/asset-7.svg',
-    title: 'Lorem ipsum dolor sit amet.',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
-  },
-  {
-    imageUrl: '/grid-icons/asset-8.svg',
-    title: 'Lorem ipsum dolor sit amet.',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
-  },
-  {
-    imageUrl: '/grid-icons/asset-9.svg',
-    title: 'Lorem ipsum dolor sit amet.',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
-  },
+      'The 24/7 medical chatbot provides continuous support to users, offering assistance and guidance around the clock for their healthcare inquiries and concerns.',
+  }
 ];
 
 export default function Features() {
   return (
-    <Container>
+    <Container id='features'>
       <CustomAutofitGrid>
         {FEATURES.map((singleFeature, idx) => (
           <BasicCard key={singleFeature.title} {...singleFeature} />

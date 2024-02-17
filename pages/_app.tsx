@@ -12,7 +12,6 @@ import { TinaEditProvider } from 'tinacms/dist/edit-state';
 
 import Footer from 'components/Footer';
 import { GlobalStyle } from 'components/GlobalStyles';
-import Navbar from 'components/Navbar';
 import NavigationDrawer from 'components/NavigationDrawer';
 import NewsletterModal from 'components/NewsletterModal';
 import WaveCta from 'components/WaveCta';
@@ -50,7 +49,6 @@ function MyApp({ Component, pageProps }: AppProps) {
 
       <Providers>
         <Modals />
-        <Navbar items={navItems} />
         <TinaEditProvider
           editMode={
             <TinaCMS
@@ -69,7 +67,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           <Component {...pageProps} />
         </TinaEditProvider>
         <WaveCta />
-        <Footer />
+        {/* <Footer /> */}
       </Providers>
     </>
   );

@@ -26,34 +26,44 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
       <HomepageWrapper>
         <WhiteBackgroundContainer>
           <Hero />
-          <Partners />
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="Lorem ipsum dolor sit amet consectetur." overTitle="sit amet gogo">
+          <BasicSection
+            imageUrl="/basicSectionIllustration1.svg"
+            title="Advanced Medical Imaging Analysis"
+            overTitle="Revolutionizing Healthcare Imaging"
+          >
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore
-              voluptate quo deleniti animi laboriosam.{' '}
-              <Link href="/help-center">Possimus ullam velit rem itaque consectetur, in distinctio?</Link> Lorem ipsum, dolor sit amet
-              consectetur adipisicing elit. Soluta repellendus quia quos obcaecati nihil. Laudantium non accusantium, voluptate eum nesciunt
-              at suscipit quis est soluta?
+              Experience precise diagnosis with our platform's cutting-edge technology. Analyze diverse medical images, from eye CT scans
+              and chest X-rays to skin images and brain MRI scans. Detect{' '}
+              <strong>diabetic retinopathy, pneumonia, skin diseases, and brain tumors </strong>
+              accurately. Empower your healthcare practice with our sophisticated algorithms. Explore the future of medical imaging analysis
+              today.{' '}
             </p>
           </BasicSection>
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
+          <BasicSection
+            imageUrl="/basicSectionIllustration2.svg"
+            title="Streamlined Doctor-Patient Interaction"
+            overTitle="Empowering Healthcare Connectivity"
+            reversed
+          >
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
-              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
+              Our app features a comprehensive <strong>dashboard</strong> catering to both <strong>doctors</strong> and{' '}
+              <strong>patients</strong>. Patients can access their medical history, treatment plans, and securely communicate with their
+              healthcare providers. Doctors can view patient information, medical images, and collaborate with other professionals within
+              our network, facilitating seamless and efficient healthcare delivery.
             </p>
-            <ul>
-              <li>Professional point 1</li>
-              <li>Professional remark 2</li>
-              <li>Professional feature 3</li>
-            </ul>
+          </BasicSection>
+          <BasicSection imageUrl="/basicSectionIllustration3.svg" title="Alchbot: Your 24/7 Health Companion" overTitle="Revolutionizing Healthcare Accessibility">
+            <p>
+            Our platform integrates an intelligent conversational <strong>chatbot</strong>, offering round-the-clock access to vital health information and initial assessments for patients. Leveraging cutting-edge AI technology, our chatbot ensures seamless interaction and timely assistance, enhancing the accessibility and efficiency of healthcare services.{' '}
+            </p>
           </BasicSection>
         </WhiteBackgroundContainer>
         <DarkerBackgroundContainer>
           <Cta />
-          <FeaturesGallery />
+          {/* <FeaturesGallery /> */}
           <Features />
-          <Testimonials />
-          <ScrollableBlogPosts posts={posts} />
+          {/* <Testimonials />
+          <ScrollableBlogPosts posts={posts} /> */}
         </DarkerBackgroundContainer>
       </HomepageWrapper>
     </>

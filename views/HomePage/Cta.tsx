@@ -13,21 +13,19 @@ export default function Cta() {
     <CtaWrapper>
       <Container>
         <Stack>
-          <OverTitle>Lorem ipsum dolor sit amet</OverTitle>
-          <SectionTitle>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus delectus?</SectionTitle>
+          <OverTitle>Empowering Healthcare Connectivity</OverTitle>
+          <SectionTitle>Looking for an experienced doctor? Search nearby!</SectionTitle>
           <Description>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda beatae accusamus deleniti nihil quas tempora numquam, vitae
-            culpa.
+            Ditch healthcare hassles! Find & book trusted doctors instantly. Vetted professionals, all specialties, near you. Get the care
+            you deserve, now!
           </Description>
           <ButtonGroup>
-            <NextLink href="#early-access" passHref>
               <Button>
-                Subscribe to the newsletter <span>&rarr;</span>
+                Sign Up now! <span>&rarr;</span>
               </Button>
-            </NextLink>
             <NextLink href="#whitepaper" passHref>
               <OutlinedButton transparent>
-                Features <span>&rarr;</span>
+                Other Features <span>&rarr;</span>
               </OutlinedButton>
             </NextLink>
           </ButtonGroup>
